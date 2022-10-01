@@ -24,16 +24,6 @@ class sprite:
             self.lines = lines
             self.render()
 
-    # def add_spacing(self,spacing):
-    #     """
-    #     Function that adds spacing to a sprite.
-
-    #     :param spacing: Spacing to add in front of sprite
-    #     """
-    #     self.spacing = spacing
-    #     self.lines = [self.spacing*' ' + line for line in self.lines]
-    #     self.render()
-
     def load_path(self):
         """
         Function that loads the path of sprite.
