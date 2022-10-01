@@ -1,0 +1,52 @@
+{
+    "Charmander":
+    {
+        "HP" : 235,
+        "moves": {
+            "Scratch" : 40,
+            "Slash" : 70,
+            "Ember" : 50,
+            "Flamethrower" : 90
+        }
+    },
+    "Pikachu":
+    {
+        "HP" : 227,
+        "moves": {
+            "Nuzzle" : 20,
+            "Thunder Shock" : 40,
+            "Discharge" : 80,
+            "Thunderbolt" : 90
+        }
+    },
+    "Squirtle":
+    {
+        "HP" : 245,
+        "moves": {
+            "Rapid Spin" : 50,
+            "Bite" : 60,
+            "Water Pulse" : 60,
+            "Hydro Pump" : 110
+        }
+    },
+    "Bulbasaur":
+    {
+        "HP" : 247,
+        "moves": {
+            "Tackle" : 40,
+            "Vine Whip" : 45,
+            "Razor Leaf" : 55,
+            "Solar Beam" : 120
+        }
+    },
+    "Gengar":
+    {
+        "HP" : 277,
+        "moves": {
+            "Lick" : 30,
+            "Payback" : 50,
+            "Hex" : 65,
+            "Dream Eater" : 100
+        }
+    }
+}
